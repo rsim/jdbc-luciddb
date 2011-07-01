@@ -1,0 +1,5 @@
+This gem bundles the LucidDB JDBC driver for Java. This gem is
+available under same license terms as LucidDB JDBC driver:
+
+LucidDB client software is released under the GNU Lesser General Public License v2.1
+(see details at http://luciddb.org/COPYING-client.txt)

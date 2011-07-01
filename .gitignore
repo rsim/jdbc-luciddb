@@ -1,0 +1,9 @@
+.bundle
+.rvmrc
+.DS_Store
+coverage
+doc
+pkg
+log
+tmp
+Gemfile.lock
